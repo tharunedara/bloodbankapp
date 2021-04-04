@@ -1,6 +1,6 @@
 # bloodbank
 
-Blood Bank Application
+Blood Bank Application made using flutter and Firebase firestore.
 
 ## Getting Started
 
